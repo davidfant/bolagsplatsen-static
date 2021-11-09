@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "http-server": "^14.0.0"
+  },
+  "scripts": {
+    "dev": "http-server ./html",
+    "download": "./download.sh"
+  }
+}
